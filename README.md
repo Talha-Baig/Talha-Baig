@@ -3,7 +3,7 @@
 
 - 📫 How to reach me: **talhabaig127@gmail.com**
 
-- **Hello, I'm Talha Baig, an undergraduate Computer Science student at Iqra University, deeply passionate about the realms of AI, Data Science, and Machine Learning. My proficiency extends to Python, Java, HTML, and CSS, and I have honed my skills in UI/UX and graphic design.**
+- **Hello, I'm Talha Baig, currently pursuing a degree in Computer Science at Iqra University. My skill set encompasses Python, Java, HTML, and CSS, and I've dedicated significant effort to refining my UI/UX and graphic design capabilities. My primary focus centers on full-stack development and web-related technologies, where I excel in building comprehensive web applications. Coding, software development, and problem-solving are of great interest to me. My priorities are structured with full-stack development taking precedence, followed by coding-related tasks, and design-oriented projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
