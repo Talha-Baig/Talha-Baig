@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Talha Baig👋</h1>
-<h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6C4&width=435&lines=An+Aspiring+Data+Scientist!" alt="Typing SVG" /></a></h1>
+<h1 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6C4&width=435&lines=An+Aspiring+Full+Stack+Developer!" alt="Typing SVG" /></a></h1>
 
 - 📫 How to reach me: **talhabaig127@gmail.com**
 
